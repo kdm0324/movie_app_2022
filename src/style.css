@@ -1,0 +1,19 @@
+.nameBox {
+	color: black;
+    text-align: center;
+    font-size: 20pt;
+    font-weight:bold;
+}
+
+.sortButton {
+    font-size: 14pt;
+    position: relative;
+    margin: auto;
+    display:block;
+}
+
+.movieCard {
+    font-size: 12pt;
+    flex-direction: column;
+    
+}
